@@ -28,39 +28,38 @@
 - Express.js
 - MongoDB
 
-📥 Installation & Running Locally
-Provide step-by-step instructions:
+## 📥 Installation & Running Locally
 
-Clone the Repository
+Follow these steps to run the project on your local machine.
 
-bash
-Copy
-Edit
+### 🔁 Clone the Repository
+
+```bash
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
-Backend Setup
 
-bash
-Copy
-Edit
+---
+
 cd backend
 npm install
 npm run server
-Frontend Setup
 
-bash
-Copy
-Edit
-cd ../frontend
+---
+
+cd frontend
 npm install
 npm run dev
-(Optional) Admin Panel
 
-bash
-Copy
-Edit
-cd ../admin
+---
+
+cd admin
 npm install
 npm run dev
+
+---
+
+You can copy and paste this directly into your `README.md`. Want me to add a "Project Structure", "Tech Stack", or anything else to make it more complete?
+
+
 
 
