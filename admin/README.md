@@ -1,12 +1,24 @@
-# React + Vite
+# 🛠️ DineWise Admin Panel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **DineWise Admin Panel** is a powerful interface for restaurant merchants to manage their operations efficiently. Built with **React + Vite**, it enables restaurant owners to handle everything from food item listings to table bookings and orders in real-time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 Features
 
-## Expanding the ESLint configuration
+- 🍽️ **Manage Food Items** – Add, update, or remove available dishes.
+- 📅 **Table Booking Overview** – View and manage current and upcoming reservations.
+- 🧾 **Order Management** – See incoming food orders and update their status.
+- 📃 **Food List Dashboard** – Organized view of all available food items.
+- 📸 **Image Uploads** – Add images to food items for better customer appeal.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+- ⚛️ **React.js**
+- ⚡ **Vite**
+- 🎨 **CSS Modules**
+- 🔄 **REST API** (connected to the main backend)
+- 🔐 **Authentication & Authorization** *(Optional, based on your setup)*
+
