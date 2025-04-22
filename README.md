@@ -1,3 +1,4 @@
+![DineWise2](https://github.com/user-attachments/assets/e32d3c94-b455-4d34-9d89-1fa5f8103546)
 # 🍽️ DineWise
 
 **DineWise** is a smart restaurant booking and review system built to elevate your dining experience. It empowers users to find, book, and review restaurants effortlessly, while providing restaurant owners with insights and feedback to improve their services.
