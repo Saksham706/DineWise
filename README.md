@@ -3,6 +3,7 @@
 **DineWise** is a smart restaurant booking and review system built to elevate your dining experience. It empowers users to find, book, and review restaurants effortlessly, while providing restaurant owners with insights and feedback to improve their services.
 
 ---
+![DineWise1](https://github.com/user-attachments/assets/08b37faa-6b96-4310-9e83-17d0f651856e)
 
 ## 🌟 Features
 
@@ -36,27 +37,37 @@ Follow these steps to set up the project on your local machine:
 
 ### 🔁 Clone the Repository
 
-```bash
+```
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
 
+```
+
 ### 🚀 Run the Backend
 
-```bash
 cd backend
 npm install
 npm run server
 
 ### 💻 Run the Frontend
 
-```bash
+``
 cd frontend
 npm install
 npm run dev
 
 ### 🛠️ Run the Admin Panel (Optional)
 
-```bash
+``
 cd admin
 npm install
 npm run dev
+
+``
+📄 License
+This project is licensed under the MIT License.
+
+---
+
+Let me know if you'd like this saved as a downloadable `.md` file or want to include GitHub badges, screenshots, or a demo video section!
+
