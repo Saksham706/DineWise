@@ -44,29 +44,32 @@ cd your-repo
 
 ### 🚀 Run the Backend
 
+```
 cd backend
 npm install
 npm run server
 
+```
+
 ### 💻 Run the Frontend
 
-``
+```
 cd frontend
 npm install
 npm run dev
 
+```
+
 ### 🛠️ Run the Admin Panel (Optional)
 
-``
+```
 cd admin
 npm install
 npm run dev
 
-``
+```
+
 📄 License
 This project is licensed under the MIT License.
 
----
-
-Let me know if you'd like this saved as a downloadable `.md` file or want to include GitHub badges, screenshots, or a demo video section!
 
