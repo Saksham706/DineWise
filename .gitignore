@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+.env
+.env.local
+.env.production
+.env.development
+
+# Frontend (React)
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+frontend/.env.development
+frontend/build/
+
+# Logs
+logs/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
