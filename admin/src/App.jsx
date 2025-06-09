@@ -8,7 +8,7 @@ import Orders from './pages/Orders/Orders'
 import { ToastContainer} from 'react-toastify';
 import BookTable from './pages/BookTable/BookTable'
 const App = () => {
-   const url = "http://localhost:4000";
+   const url = import.meta.env.VITE_SERVER_URL;
   return (
     <div>
       <ToastContainer/>

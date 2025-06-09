@@ -18,8 +18,8 @@ const Add = ({url}) => {
     const value = event.target.value;
     setData(data=>({...data,[name]:value}))
   }
-  // prevent the reload of the page
   const onSubmitHandler = async(event) =>{
+    // prevent the reload of the page
     event.preventDefault();
     // connecting backend to frontend 
     const formData = new FormData();
