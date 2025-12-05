@@ -15,7 +15,9 @@
 - 🛠️ **Admin Panel** – *(Coming Soon)*
 
 ---
-
+## Live Link - 
+https://dinewise-frontend.vercel.app/
+---
 ## 🖼️ Photos 
 ![Screenshot (189)](https://github.com/user-attachments/assets/7790daae-eb7e-4cf3-a19c-14c3bc7f0612)
 ![Screenshot (190)](https://github.com/user-attachments/assets/e35a1e16-5027-4c40-b67b-1b113cea995e)
