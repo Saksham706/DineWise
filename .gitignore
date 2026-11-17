@@ -1,9 +1,5 @@
 # Node.js
 node_modules/
-.env
-.env.local
-.env.production
-.env.development
 
 # Frontend (React)
 frontend/node_modules/
@@ -22,5 +18,5 @@ logs/
 Thumbs.db
 
 # Editor folders
-.vscode/
 .idea/
+config.bat
